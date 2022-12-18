@@ -1,0 +1,124 @@
+
+ {
+     "questions":[
+        {
+            "questionText":"How else can Array<number> be written in TypeScript?",
+            "options": [{
+                    "text":"@number"
+                 },
+                 {
+                    "text":"@number[]",
+                    "correct": true
+                 },
+                 {
+                    "text": "number!"
+                 },
+                 {
+                    "text":"number?"
+                 }
+                 
+            ],
+            "explanation": "number[] is another way of writing Array<number> in TypeScript"
+        },
+        {
+            "questionText":"what is the square root of 9",
+            "options": [{
+                    "text":"four"
+                 },
+                 {
+                    "text":"three",
+                    "correct": true
+                 },
+                 {
+                    "text": "boolean!"
+                 },
+                 {
+                    "text":"eight"
+                 }
+                 
+            ],
+            "explanation": "three is the square root of 9"
+        },
+        {
+            "questionText":"How else can Array<number> be written in JavascriptScript?",
+            "options": [{
+                    "text":"@number"
+                 },
+                 {
+                    "text":"@number[]",
+                    "correct": true
+                 },
+                 {
+                    "text": "number!"
+                 },
+                 {
+                    "text":"number?"
+                 }
+                 
+            ],
+            "explanation": "number[] is another way of writing Array<number> in TypeScript"
+        },
+        {
+         "questionText":"what is the square root of 16",
+         "options": [{
+                 "text":"three"
+              },
+              {
+                 "text":"four",
+                 "correct": true
+              },
+              {
+                 "text": "boolean!"
+              },
+              {
+                 "text":"eight"
+              }
+              
+         ],
+         "explanation": "three is the square root of 9"
+     },
+        {
+            "questionText":"How else can Array<number> be written in TypeScript?",
+            "options": [{
+                    "text":"@number"
+                 },
+                 {
+                    "text":"@number[]",
+                    "correct": true
+                 },
+                 {
+                    "text": "number!"
+                 },
+                 {
+                    "text":"number?"
+                 }
+                 
+            ],
+            "explanation": "number[] is another way of writing Array<number> in TypeScript"
+        }, 
+        {
+            "questionText":"How else can Array<number> be written in TypeScript?",
+            "options": [{
+                    "text":"@number"
+                 },
+                 {
+                    "text":"@number[]",
+                    "correct": true
+                 },
+                 {
+                    "text": "number!"
+                 },
+                 {
+                    "text":"number?"
+                 }
+                 
+            ],
+            "explanation": "number[] is another way of writing Array<number> in TypeScript"
+        }
+
+     ]
+ }
+
+
+
+
